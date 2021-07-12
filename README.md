@@ -1,0 +1,2 @@
+# Indlu-Yami-Project
+Spearheaded a team of four specialists working with a project manager on a high-level design project for a multinational property development organisation. The project proposed plans of the design, development, implementation and management for the development project for a housing property in the heart of Sydney. Developed a high level IT and IS solution to address all the core business components and requirements.
